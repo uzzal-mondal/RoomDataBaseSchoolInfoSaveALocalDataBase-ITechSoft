@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RoomDatabaseSchoolInfo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="classNameData">
+
+        <item>class 1</item>
+        <item>class 2</item>
+        <item>class 3</item>
+        <item>class 4</item>
+        <item>class 5</item>
+        <item>class 6</item>
+        <item>class 7</item>
+        <item>class 8</item>
+        <item>class 9</item>
+        <item>class 10</item>
+        <item>class 11</item>
+
+
+
+    </string-array>
+
+</resources>
